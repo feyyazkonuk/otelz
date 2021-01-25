@@ -1,0 +1,4 @@
+import reservation
+
+reservation.Reservation("https://www.otelz.com/hotel-detail/ilk-resort-test-oteli/room-prices/15627?search=eyJwIjoxNTYyNywidCI6NjE0LCJnIjo2LCJzIjoiMjEtMDEtMzAiLCJlIjoiMjEtMDEtMzEiLCJjIjoiVFIiLCJsIjoxNTYyNywiZCI6MCwicSI6MSwieiI6MCwicnQiOjAsImx0IjoiNDEuMDEwODI4IiwibG4iOiIyOC45ODI5NTgiLCJyIjpbeyJhIjoyfV19")
+reservation.time.sleep(1000)
